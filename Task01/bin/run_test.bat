@@ -1,5 +1,5 @@
 @echo off
 
-php run-test.php
+php run_test.php
 
 pause
